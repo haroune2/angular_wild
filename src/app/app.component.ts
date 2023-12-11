@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'NomDuProjet';
+  title = 'Bienvenue sur le site d\'Haroune !.';
 }
